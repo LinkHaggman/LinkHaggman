@@ -77,7 +77,7 @@
 		Softwares & Design Tools
 	</h3>
 	<p>
-		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/8b82cc2d5ebc6e8d4e099bf4fcaf96d1ca491150/AF.svg" height="28" alt="Yarn" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/bdcc9c487fc521480326ebf66fca1b995d1a5a0c/AF.svg" height="28" alt="Yarn" />
 		<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
 	</p>
 </div>
