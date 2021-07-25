@@ -107,13 +107,9 @@
 		Learn & Share Code
 	</h3>
 	<p>
-		</a>
-		<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
-		</a>
-		<a href="https://stackoverflow.com/users/10855837/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Stack Overflow" />
-		</a>
+			<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/2b05f7ec57d7445bc49718f33630c9041352dd1c/Dev.svg" height="28" alt="Dev" />
 	</p>
 </div>
 
