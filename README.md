@@ -34,6 +34,7 @@
 		<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown" />
+<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/d26d39e79188163f12426a69f19e71a681555994/Nani.svg" height="28" alt="Netlify" />
 	</p>
 </div>
 
