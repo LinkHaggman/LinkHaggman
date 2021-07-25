@@ -107,7 +107,7 @@
 
 <div id="learn-share-code">
 	<h3>
-		Learn & Share Code
+		Learn or Share Code
 	</h3>
 	<p>
 			<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
