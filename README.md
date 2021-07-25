@@ -128,11 +128,11 @@
 		GitHub Stats
 	</h2>
 	<p>
-		<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+		<a href="https://github.com/link0v0/" target="_blank" rel="noopener noreferrer">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=link0v0&hide=html&theme=vue-dark&show_icons=true"
 				alt="Link's GitHub Stats: Top programming languages"/>
 		</a>
-		<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
+		<a href="https://github.com/link0v0/" target="_blank" rel="noopener noreferrer">
 			<img src="https://github-readme-stats.vercel.app/api?username=linkovo&count_private=true&theme=vue-dark&show_icons=true"
 				alt="Link's GitHub Stats"/>
 		</a>
