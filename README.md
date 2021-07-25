@@ -115,7 +115,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
-		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/d7c36ca84f0ce067332dbfa70d4990c9b66c947f/Steam.svg" height="28" alt="Yarn" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/f7797e36867bc9b9859b7b9036ad35af09e3ce79/Steam.svg" height="28" alt="Yarn" />
 		<img src="https://img.shields.io/badge/-Nintendo-E60011?&style=for-the-badge&logo=nintendo&logoColor=white" alt="Nintendo" />
 	</p>
 </div>
