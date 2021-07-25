@@ -95,7 +95,7 @@
 
 <div id="learn-share-code">
 	<h3>
-		Learn and share code
+		Learn & Share Code
 	</h3>
 	<p>
 		</a>
