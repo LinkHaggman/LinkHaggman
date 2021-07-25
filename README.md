@@ -13,7 +13,7 @@
 		<p>
 			Welcome to my profile!
 			<br>
-			I'm Link Häggman, Front-End dev and indie game dev from <img src="https://image.flaticon.com/icons/png/512/323/323364.png" alt="Sweden" width="15px"> Sweden.
+			I'm a Front-End dev and indie game dev from <img src="https://image.flaticon.com/icons/png/512/323/323364.png" alt="Sweden" width="15px"> Sweden.
 			<br>
 			I am creating websites, web apps(PWA) & games.
 		</p>
