@@ -62,10 +62,11 @@
 
 <div id="version-control">
 	<h3>
-		Version Control
+		Version Control & Hosting
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/12512000a49c3436c4d56174f568495c40ec5676/Netlify.svg" height="28" alt="Netlify" />
 	</p>
 </div>
 
