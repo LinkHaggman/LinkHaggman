@@ -36,7 +36,7 @@
 		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 		<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vuejs" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown" />
-    <img src="https://i.imgur.com/O7TLjgu.png" alt="Bootstrap" />
+    <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/430bc02a37da76ed8f8a79d2fe9c6a76180eca08/BS.svg" width="93" alt="Bootstrap" />
 	</p>
 </div>
 
@@ -124,8 +124,6 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows" />
-		<img src="https://img.shields.io/badge/-Mac-999999?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
-		<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 	</p>
 </div>
 
