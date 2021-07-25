@@ -74,13 +74,10 @@
 
 <div id="tools">
 	<h3>
-		Design tools
+		Softwares
 	</h3>
 	<p>
-		<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" />
-		<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="Illustrator" />
-		<img src="https://img.shields.io/badge/-InDesign-EE3D8F?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" alt="InDesign" />
-		<img src="https://img.shields.io/badge/-SVG-F6AB3A?style=for-the-badge&logo=svg&logoColor=black" alt="SVG" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/8b82cc2d5ebc6e8d4e099bf4fcaf96d1ca491150/AF.svg" height="28" alt="Yarn" />
 		<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
 	</p>
 </div>
@@ -118,6 +115,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/d7c36ca84f0ce067332dbfa70d4990c9b66c947f/Steam.svg" height="28" alt="Yarn" />
 		<img src="https://img.shields.io/badge/-Nintendo-E60011?&style=for-the-badge&logo=nintendo&logoColor=white" alt="Nintendo" />
 	</p>
 </div>
