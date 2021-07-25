@@ -36,7 +36,7 @@
 		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
 		<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vuejs" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown" />
-    <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/430bc02a37da76ed8f8a79d2fe9c6a76180eca08/BS.svg" width="93" alt="Bootstrap" />
+    <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/a76d315cb69f175030cdc2876dc808a0d684782e/BS.svg" height="28" alt="Bootstrap" />
 	</p>
 </div>
 
