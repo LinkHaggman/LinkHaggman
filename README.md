@@ -32,11 +32,19 @@
 	<p>
 		<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 		<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-		<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS/SCSS" />
 		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
-		<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vuejs" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown" />
-    <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/a76d315cb69f175030cdc2876dc808a0d684782e/BS.svg" height="28" alt="Bootstrap" />
+	</p>
+</div>
+
+<div id="skills">
+	<h3>
+		Frameworks
+	</h3>
+	<p>
+				<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS/SCSS" />
+				<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vuejs" />
+		   <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/a76d315cb69f175030cdc2876dc808a0d684782e/BS.svg" height="28" alt="Bootstrap" />
 	</p>
 </div>
 
