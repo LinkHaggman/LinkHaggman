@@ -74,7 +74,7 @@
 
 <div id="tools">
 	<h3>
-		Softwares
+		Softwares & Design Tools
 	</h3>
 	<p>
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/8b82cc2d5ebc6e8d4e099bf4fcaf96d1ca491150/AF.svg" height="28" alt="Yarn" />
