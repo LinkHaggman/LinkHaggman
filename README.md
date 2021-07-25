@@ -113,6 +113,7 @@
 			<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
 			<img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Stack Overflow" />
 			<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/2b05f7ec57d7445bc49718f33630c9041352dd1c/Dev.svg" height="28" alt="Dev" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/3874e519bcfd831182f0d7eb6dd1f88bd47edc5e/YouTube.svg" height="28" alt="Dev" />
 	</p>
 </div>
 
