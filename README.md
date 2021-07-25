@@ -46,9 +46,8 @@
 		Task runners
 	</h3>
 	<p>
-		<img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" alt="Nodejs" />
 		<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-		<img src="https://img.shields.io/badge/-Gulp-D34A47?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp" />
+		   <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/a5f5c5c510d85c63670239df152bd51fb3b558c7/Yarn.svg" height="28" alt="Yarn" />
 	</p>
 </div>
 
@@ -59,32 +58,6 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-		<img src="https://img.shields.io/badge/-Git Flow-0288A6?style=for-the-badge&logo=git&logoColor=white" alt="Git Flow" />
-		<img src="https://img.shields.io/badge/-SourceTree-0047B3?style=for-the-badge&logo=Atlassian&logoColor=white" alt="SourceTree" />
-	</p>
-</div>
-
-
-<div id="project-management">
-	<h3>
-		Project management
-	</h3>
-	<p>
-		<img src="https://img.shields.io/badge/-Trello-2D70C1?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
-		<img src="https://img.shields.io/badge/-Monday-D80764?style=for-the-badge&logo=Monday&logoColor=white" alt="Monday" />
-	</p>
-</div>
-
-
-<div id="backend">
-	<h3>
-		Backend PHP
-	</h3>
-	<p>
-		<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP7" />
-		<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=00758F" alt="MySQL" />
-		<img src="https://img.shields.io/badge/-Joomla-2E739E?style=for-the-badge&logo=Joomla&logoColor=white" alt="Joomla" />
-		<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=tool&logoColor=707072" alt="MAMP" />
 	</p>
 </div>
 
@@ -95,10 +68,6 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Visual Studio Code-005BA4?style=for-the-badge&logo=Visual+Studio+Code&logoColor=white" alt="Visual Studio Code" />
-		<img src="https://img.shields.io/badge/-PhpStorm-7A59F7?style=for-the-badge&logo=JetBrains&logoColor=white" alt="PhpStorm" />
-		<img src="https://img.shields.io/badge/-Atom-5CB4AF?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
-		<img src="https://img.shields.io/badge/-Netbeans-1B6AC6?style=for-the-badge&logo=Apache-Netbeans&logoColor=white" alt="Netbeans" />
-		<img src="https://img.shields.io/badge/-Sublime Text-222222?style=for-the-badge&logo=Sublime+Text&logoColor=FF9800" alt="Sublime Text" />
 	</p>
 </div>
 
@@ -112,7 +81,6 @@
 		<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="Illustrator" />
 		<img src="https://img.shields.io/badge/-InDesign-EE3D8F?style=for-the-badge&logo=Adobe-InDesign&logoColor=white" alt="InDesign" />
 		<img src="https://img.shields.io/badge/-SVG-F6AB3A?style=for-the-badge&logo=svg&logoColor=black" alt="SVG" />
-		<img src="https://img.shields.io/badge/-Icomoon-825794?&style=for-the-badge&logo=Icomoon&logoColor=white" alt="Icomoon" />
 		<img src="https://img.shields.io/badge/-Figma-F24E1D?&style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
 	</p>
 </div>
@@ -133,12 +101,6 @@
 		Learn and share code
 	</h3>
 	<p>
-		<img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" />
-		<a href="https://codepen.io/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
-			<img src="https://img.shields.io/badge/-Codepen-47cf73?&style=for-the-badge&logo=Codepen&logoColor=ffffff" alt="CodePen" />
-		</a>
-		<a href="https://codesandbox.io/u/beatrizsmerino" target="_blank" rel="noopener noreferrer">
-			<img src="https://img.shields.io/badge/-CodeSandBox-204056?style=for-the-badge&logo=CodeSandBox&logoColor=white" alt="CodeSandBox" />
 		</a>
 		<a href="https://github.com/beatrizsmerino" target="_blank" rel="noopener noreferrer">
 			<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
@@ -156,13 +118,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
-		<img src="https://img.shields.io/badge/-HBO-000000?&style=for-the-badge&logo=HBO&logoColor=white" alt="HBO" />
-		<img src="https://img.shields.io/badge/-DisneyPlus-214396?&style=for-the-badge&logo=Disney&logoColor=white" alt="Disney Plus" />
-		<img src="https://img.shields.io/badge/-Amazon Prime Video-0F79AF?&style=for-the-badge&logo=Amazon&?logoWidth=40&logoColor=white" alt="Amazon Prime Video" />
-		<img src="https://img.shields.io/badge/-Spotify-000000?&style=for-the-badge&message=Spotify&color=222222&logo=Spotify&logoColor=1ED760" alt="Spotify" />
 		<img src="https://img.shields.io/badge/-Nintendo-E60011?&style=for-the-badge&logo=nintendo&logoColor=white" alt="Nintendo" />
-		<img src="https://img.shields.io/badge/-Playstation-003791?&style=for-the-badge&logo=Playstation&logoColor=white" alt="Playstation" />
-		<img src="https://img.shields.io/badge/-Fitbit-00B0B9?&style=for-the-badge&logo=Fitbit&logoColor=white" alt="Fitbit" />
 	</p>
 </div>
 
@@ -173,23 +129,12 @@
 	</h2>
 	<p>
 		<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsmerino&hide=html&theme=vue-dark&show_icons=true"
-				alt="Beatriz's GitHub Stats: Top programming languages"/>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=link0v0&hide=html&theme=vue-dark&show_icons=true"
+				alt="Link's GitHub Stats: Top programming languages"/>
 		</a>
 		<a href="https://github.com/beatrizsmerino/" target="_blank" rel="noopener noreferrer">
-			<img src="https://github-readme-stats.vercel.app/api?username=beatrizsmerino&count_private=true&theme=vue-dark&show_icons=true"
-				alt="Beatriz's GitHub Stats"/>
+			<img src="https://github-readme-stats.vercel.app/api?username=linkovo&count_private=true&theme=vue-dark&show_icons=true"
+				alt="Link's GitHub Stats"/>
 		</a>
-	</p>
-</div>
-
-
-<div id="hacktoberfest">
-	<h2>
-		Hacktoberfest
-	</h2>
-	<p>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2019.png" alt="Hacktoberfest 2019" width="150px"/>
-		<img src="./README/images/hacktoberfest/hacktoberfest-2020.png" alt="Hacktoberfest 2020" width="150px"/>
 	</p>
 </div>
