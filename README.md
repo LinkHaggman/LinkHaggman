@@ -47,7 +47,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-		   <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/a5f5c5c510d85c63670239df152bd51fb3b558c7/Yarn.svg" height="28" alt="Yarn" />
+		   <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/6e25b3d39d2736fcfd6ee08ae0e728a2637c55cf/Yarn.svg" height="28" alt="Yarn" />
 	</p>
 </div>
 
