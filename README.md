@@ -69,6 +69,7 @@
 		<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
 					<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/12512000a49c3436c4d56174f568495c40ec5676/Netlify.svg" height="28" alt="Netlify" />
+				<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/f7797e36867bc9b9859b7b9036ad35af09e3ce79/Steam.svg" height="28" alt="Steam" />
 	</p>
 </div>
 
