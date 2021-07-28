@@ -67,6 +67,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Git-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
+					<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/12512000a49c3436c4d56174f568495c40ec5676/Netlify.svg" height="28" alt="Netlify" />
 	</p>
 </div>
@@ -103,20 +104,6 @@
 		<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows" />
 	</p>
 </div>
-
-
-<div id="learn-share-code">
-	<h3>
-		Learn or Share Code
-	</h3>
-	<p>
-			<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
-			<img src="https://img.shields.io/badge/-Stack Overflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Stack Overflow" />
-			<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/2b05f7ec57d7445bc49718f33630c9041352dd1c/Dev.svg" height="28" alt="Dev" />
-		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/3874e519bcfd831182f0d7eb6dd1f88bd47edc5e/YouTube.svg" height="28" alt="Dev" />
-	</p>
-</div>
-
 
 <div id="hobbies">
 	<h3>
