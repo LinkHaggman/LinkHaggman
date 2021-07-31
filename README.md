@@ -112,6 +112,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
+				<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/9c906f304aa0437573563be343975a0b90dfbec5/Funimation.svg" height="28" alt="Funimation" />
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/f7797e36867bc9b9859b7b9036ad35af09e3ce79/Steam.svg" height="28" alt="Steam" />
 		<img src="https://img.shields.io/badge/-Nintendo-E60011?&style=for-the-badge&logo=nintendo&logoColor=white" alt="Nintendo" />
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/18611624f375fe40dcee2a2dbae56495445acf70/JF.svg" height="28" alt="Japanese Foundation" />
