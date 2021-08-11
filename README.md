@@ -15,7 +15,7 @@
 			<br>
 			I'm a Front-End dev and indie game dev from <img src="https://image.flaticon.com/icons/png/512/323/323364.png" alt="Sweden" width="15px"> Sweden.
 			<br>
-			I am creating websites, web apps(PWA) & games.
+			I am designing & coding websites, web apps(PWA) & games.
 		</p>
     	<br>
 	</div>
