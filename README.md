@@ -104,7 +104,7 @@
 	<p>
 		<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows" />
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/ca1ee69ebd3074d237ae1e5ba0e9a48a0c95a0ca/STEAMOS.svg"  height="28 alt="Steam OS" />
-		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/861250802521feac9d87608ff8a02d5cb25b2f0e/Android.svg"  height="28 alt="Steam OS" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/86eb8e6d1d1128dd5620c68289a41c50d33d2c71/Android.svg"  height="28 alt="Steam OS" />
 	</p>
 </div>
 
