@@ -103,7 +103,7 @@
 	</h3>
 	<p>
 		<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows" />
-		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/ca1ee69ebd3074d237ae1e5ba0e9a48a0c95a0ca/STEAMOS.svg" alt="Steam OS" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/ca1ee69ebd3074d237ae1e5ba0e9a48a0c95a0ca/STEAMOS.svg"  height="28 alt="Steam OS" />
 	</p>
 </div>
 
