@@ -107,13 +107,3 @@
 		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/86eb8e6d1d1128dd5620c68289a41c50d33d2c71/Android.svg"  height="28 alt="Steam OS" />
 	</p>
 </div>
-
-<div id="hobbies">
-	<h3>
-		Hobbies
-	</h3>
-	<p>
-		<img src="https://img.shields.io/badge/-Netflix-E50914?&style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
-		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/f7797e36867bc9b9859b7b9036ad35af09e3ce79/Steam.svg" height="28" alt="Steam" />
-	</p>
-</div>
