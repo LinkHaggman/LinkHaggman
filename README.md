@@ -46,6 +46,7 @@
 				<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS/SCSS" />
 				<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vuejs" />
 		   <img src="https://raw.githubusercontent.com/Link0v0/Link0v0/a76d315cb69f175030cdc2876dc808a0d684782e/BS.svg" height="28" alt="Bootstrap" />
+		<img src="https://raw.githubusercontent.com/Link0v0/Link0v0/ad72eca4e14fe208603f9dfa6b90771b52ce98dc/Nuxt.svg" height="28" alt="Nuxt" />
 	</p>
 </div>
 
