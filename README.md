@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-		Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> I'm Link Häggman
+		Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> I'm Link Häggman
 	</h1>
 	<h3>
 		Front-End Developer and Indie Game Developer.
