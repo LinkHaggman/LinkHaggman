@@ -1,7 +1,7 @@
 <div align="center">
-<h3>
+<h1>
 		Welcome to my profile!
-	</h3>
+	</h1>
 
 <div id="description">
 		<p>
