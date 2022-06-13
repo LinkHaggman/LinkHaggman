@@ -1,9 +1,6 @@
 <div align="center">
-	<h1>
-		Hi there! I'm Link Häggman
-	</h1>
-	<h3>
-		Front-End Developer and Indie Game Developer.
+<h3>
+		Welcome to my profile!
 	</h3>
 </div>
 
@@ -11,8 +8,6 @@
 <div id="description">
 	<div>
 		<p>
-			Welcome to my profile!
-			<br>
 			I'm a Front-End dev and indie game dev from Sweden.
 			<br>
 			I design & code websites, web apps(PWA) & games.
