@@ -2,11 +2,8 @@
 <h3>
 		Welcome to my profile!
 	</h3>
-</div>
-
 
 <div id="description">
-	<div>
 		<p>
 			I'm a Front-End dev and indie game dev from Sweden.
 			<br>
